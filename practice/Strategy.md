@@ -1,21 +1,18 @@
-# Strategy to find the pseudo-internship and fulfill 9 EAP of practice
+# Strategy to find a pseudo-internship and fulfill 9 EAP of practice
 
 ## Overview
 
-Some companies are said to have undone chunk of work. They cannot afford it to be done
-due to `Budget` constraints. As such, they cannot hire the specialist to get the work
-done, and that is where our opportunity emerges: we must take the initiative and offer our
-volunteer help.
+A number of companies are known to have a backlog of valuable work that remains undone due to a lack of budget. As such, they cannot afford to hire a full-time specialist to get the work done. This situation presents a unique opportunity for us to take the initiative and offer our services on a volunteer basis.
 
+## The Strategy
 
-## Strategy idea
+Instead of adopting a transactional mindset focused on asking for a job, the strategy involves reframing the conversation to focus on providing value.
 
-Instead of saying 
+The approach is:
+"I would like to offer my time and skills to contribute to and potentially solve problems or take on tasks that a company may not have the budget to hire a specialist for."
 
-> I wanna offer my services for free and work for food. Please, give me some work.
+This approach emphasizes **what I can do** and **the value I can provide**, rather than **where I can get a job**.
 
-we say
+## Rationale
 
-> I would like to offer my time and skills to contribue and potentially solve the problems 
-or take on tasks you dont have money to hire the right specialist. We focus on `what can I do`, 
-instead of `where I can get the job`.
+This strategy is effective because it targets a specific business problem: **unbudgeted work**. By offering to complete these tasks, we provide a low-risk, high-reward solution for the company. They get a valuable piece of work completed without having to commit to a salary, and we get the practical experience and portfolio project needed for our academic requirements. It transforms a "no" from a formal application process into an opportunity to demonstrate competence and initiative.
