@@ -56,6 +56,43 @@
 - **SentAt:** 10.09.2025 05:00 AM 
 - **ReceivedResponseAt:** Awaiting
 
+
+### 7. WiseHosting OÜ
+- **Contacted via:** info@wisehosting.ee
+- **Roles:** Full Stack Developer - Game Hosting
+- **Action:** Applying for the job vacancy because 1) matches my skills (exluding Laravel, Vue.js); 2) Part time job (Excellent for College practice course!)
+- **Status:** CV attached; awaiting response
+- **SentAt:** 10.09.2025 06:00 AM 
+- **ReceivedResponseAt:** Awaiting
+
+
+### 8. RIK
+- **Contacted via:** piibe.pilme-oja@rik.ee
+- **Roles:** Testija
+- **Action:** Recognized: 0.0.0.0 of vacancies world. Government uses internal hiring process, so vacancy is more likely to be formality. I applied because every opportunity matters!
+- **Status:** CV attached; awaiting response
+- **SentAt:** 10.09.2025 06:00 AM 
+- **ReceivedResponseAt:** Awaiting
+
+
+### 9. Siseministeeriumi infotehnoloogia- ja arenduskeskus
+- **Contacted via:** kristel.kraag@smit.ee
+- **Roles:** Testija
+- **Action:** Recognized: 0.0.0.0 of vacancies world. Government uses internal hiring process, so vacancy is more likely to be formality. I applied because every opportunity matters!
+- **Status:** CV attached; awaiting response
+- **SentAt:** 10.09.2025 06:00 AM 
+- **ReceivedResponseAt:** Awaiting
+
+
+### 10. NORRBIT OÜ
+- **Contacted via:** adrian@norrbit.com
+- **Roles:** QA / Software Tester Web & Mobile Apps
+- **Action:** Did Personality test; attached CV; sent to the employer
+- **Status:** CV attached; awaiting response
+- **SentAt:** 10.09.2025 06:10 AM 
+- **ReceivedResponseAt:** Awaiting
+
+
 ---
 
 ## 🧠 Notes
