@@ -9,6 +9,7 @@
 |---------------|------------------------|
 | **Major**     | IT Systems Development |
 | **Instructor**| Pavel Kodotsigov       |
+| **University** | University of Tartu |
 <div align="center">
 
 <img src="https://github.com/derweisskrag/Academic-Chronicle/blob/main/windows_administration/windows_11_pro/windows_11_vm_logo.png?raw=true" alt="Windows 11 VM Logo" width="120"/>
