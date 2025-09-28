@@ -9,7 +9,11 @@
 |---------------|------------------------|
 | **Major**     | IT Systems Development |
 | **Instructor**| Pavel Kodotsigov       |
-| **University** | University of Tartu   |
+<div align="center">
+
+<img src="https://github.com/derweisskrag/Academic-Chronicle/blob/main/windows_administration/windows_11_pro/windows_11_vm_logo.png?raw=true" alt="Windows 11 VM Logo" width="120"/>
+
+</div>
 
 </div>
 
@@ -48,11 +52,11 @@ tracert www.google.com
 
 and wait for a while. I would like to show both VM interface and the running Windows 11 Pro VM:
 
-![Set up of VM: Windows 11 Pro](winows_11_pro_vm_setup.png)
+![Set up of VM: Windows 11 Pro](https://github.com/derweisskrag/Academic-Chronicle/blob/main/windows_administration/windows_11_pro/winows_11_pro_vm_setup.png?raw=true)
 
 Then I show you the example in the VM:
 
-![Tracing route to Google](tracing_route_to_google.png)
+![Tracing route to Google](https://github.com/derweisskrag/Academic-Chronicle/blob/main/windows_administration/windows_11_pro/tracing_route_to_google.png?raw=true)
 
 The result shows to you which way and how your signal navigated across the network to arrive at Google's router (we can see 15 hops on the picture!).
 
@@ -64,7 +68,7 @@ My packet of data came from Host IP (my machine) - because my VM uses Host machi
 
 Let us try different example:
 
-![Tracing route to Narva College](tracing_route_to_narva_college.png)
+![Tracing route to Narva College](https://github.com/derweisskrag/Academic-Chronicle/blob/main/windows_administration/windows_11_pro/tracing_route_to_narva_college.png?raw=true)
 
 You can see the IP address of Narva College website (Resolve by DNS server). We can see the 7 hops and the ones marked with `*` sign indicates that they did not return the *TimeExceeded* response (TTL = 0). It happens and is completely normal: some routers block the ICMP or drop the traceroute packets. Put simply, some routers did not respond to ICMP.
 
@@ -157,7 +161,7 @@ We are going to trace the route to the Google once again (so we can compare the 
 tracert -d -h 20 -w 200 www.google.com
 ```
 
-![Advanced Example: Tracing route to Google](advanced_example_tracing_route_to_google.png)
+![Advanced Example: Tracing route to Google](https://github.com/derweisskrag/Academic-Chronicle/blob/main/windows_administration/windows_11_pro/advanced_example_tracing_route_to_google.png?raw=true)
 
 So, from the picture, we can see the number of hops didnt change. In addition, please notice that 128ms was present in the original example (with 30 hops; DNS resolution), whereas the advanced example has slightly faster round-trip time.
 
