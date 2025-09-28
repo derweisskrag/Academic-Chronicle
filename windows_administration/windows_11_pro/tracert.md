@@ -3,7 +3,7 @@
 # Tracert Command  
 ## Windows 11 Pro Administration Guide
 
-<div style="margin-left:25rem">
+<div>
 
 | **Name**      | Sergei Ivanov          |
 |---------------|------------------------|
@@ -15,7 +15,7 @@
 
 **A comprehensive overview of the tracert command for network diagnostics.**
 
-<div align="center">28.09.2025</div>
+28.09.2025
 </div>
 
 ---
