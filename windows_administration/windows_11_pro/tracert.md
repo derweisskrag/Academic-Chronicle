@@ -22,7 +22,6 @@
 
 28.09.2025
 </div>
-
 ---
 
 
@@ -45,7 +44,7 @@ the network. For example,
 
 ### Example
 
-Open up your terminal. You can do so by typing ***cmd** to the search input; then click right onto it and the terminal window will pop up.
+Open up your terminal. You can do so by typing ***cmd*** to the search input; then click right onto it and the terminal window will pop up.
 
 ```
 tracert www.google.com

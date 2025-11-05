@@ -11,3 +11,4 @@
 - https://CV.ee
 - https://www.cvkeskus.ee/
 - https://www.tootukassa.ee/
+- https://rustjobs.dev/

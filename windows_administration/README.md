@@ -184,4 +184,15 @@ As before, this section serves the purpose of navigation, so reader can find my 
 - Lab 3: [Lab 3 Documentation](labs/lab_3.md)
 
 
+## Downloads
+
+If you feel insecure about clicking (because security is always priority 1!!!), you can use Google or Bing search to navigate to these and download the software.
+
+> Little comment: https means that they use certain certificate which requires your PC datetime to be aligned with the website server time. I had my laptop time
+of June and it couldnt update its datetime to "today" without me actually triggering the update, and hence I could not visit the YouTube. It may be pointless information
+for you, but it was fun to learn! No, it does not mean that certificate only uses datetime; no! It means that valid datetime is one of requirements (or else handshake between client and server fails). 
+
+1. You can download EduVPN here (official): https://www.eduvpn.org/client-apps/
+2. To download Oracle VM go here: https://www.virtualbox.org/
+
 ## Sources of Information
