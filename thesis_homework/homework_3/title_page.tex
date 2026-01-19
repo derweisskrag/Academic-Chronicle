@@ -1,0 +1,52 @@
+\begin{titlepage}
+    \centering
+
+    \vspace*{3cm}
+
+    % --- Title (16pt, bold) ---
+    {\fontsize{16pt}{18pt}\selectfont \textbf{Lõputöö}\par}
+
+    \vspace{1cm}
+
+    % --- Subtitle (16pt, NOT bold unless required) ---
+    {\fontsize{16pt}{18pt}\selectfont 
+    Tõhusate Andmestruktuuride ja Algoritmide Arendamine Veebirakendustele: 
+    Pythoni Jõudluse Optimeerimine WebAssembly (Wasm) abil\par}
+
+    \vspace{3cm}
+
+    % --- Author / Institution (12pt default) ---
+    {\fontsize{12pt}{14pt}\selectfont
+    \textbf{Sergei Ivanov}\par
+    \vspace{0.3cm}
+    \textit{IT Süsteemide arendus, Tartu Ülikool}\par
+    }
+
+    \vspace{2cm}
+
+    % --- Instructor and date ---
+    {\fontsize{12pt}{14pt}\selectfont
+    \textbf{Juhendaja: Andre Sääsk}\par
+    \vspace{0.3cm}
+    \today\par
+    }
+
+    \vfill
+
+\end{titlepage}
+
+\renewcommand{\abstractname}{Kokkuvõte}
+\begin{abstract}
+Akadeemiline artikkel räägib mikroteenustest, täpsemalt sellest, kuidas nad lõid oma SpringBoot põhirakendusele Rust/Go lahenduse.
+See väidab, et Python on aeglane programmeerimiskeel isegi siis, kui rakenduse jõudluse kiirendamiseks saab kasutada JIT-kompilaatorit. 
+Sisuliselt ei toeta kõik Pythoni teegid JIT-i. Go-d kasutati WASM-i jaoks plugeeriva ekstismi loomiseks. Rust oli API loomise algoritmi peamine keel, kasutades `powerbot::api`. 
+Lõpuks näitab artikkel mikroteenuste API loogika jaoks Go/Rust wasm-i kasutava rakenduse jõudluse kvantitatiivset analüüsi. See analüüs näitas, et Python on Rusti API-ga võrreldes väga aeglane. WASM-i eeliseks Kotlini SpringBoot rakenduse puhul on turvalisus ja kiirus, kuna artikli autor kasutas mikroteenuste vaheliste turvatud ühenduste jaoks TLS-sertifikaati.
+\end{abstract}
+
+\vspace{0.5cm}
+
+\noindent\textbf{Võtmesõnad:} Wasm, Rust, Python, GO, API, WASI, monolith, microservices, lower level language, optimization, performance, scalability, agility, container, infrastructure, function, command, STOMP Protocol
+
+\renewcommand{\contentsname}{Sisukord}
+\tableofcontents
+\clearpage
